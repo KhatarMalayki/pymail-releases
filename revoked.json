@@ -1,5 +1,9 @@
 {
-  "revoked": [],
-  "updated_at": "2026-05-22T23:29:02.861258+00:00",
-  "notes": {}
+  "revoked": [
+    "OAfXCM5ayMQ"
+  ],
+  "updated_at": "2026-05-23T00:05:50.307352+00:00",
+  "notes": {
+    "OAfXCM5ayMQ": "Test scenario: revoke + force refresh demo"
+  }
 }
